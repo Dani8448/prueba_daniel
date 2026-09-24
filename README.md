@@ -1,6 +1,6 @@
 # prueba_daniel
 
-##Repositorio con la finalidad de probar los usos basicos de github,para el módulo implantación de aplicaciones web.
+## Repositorio con la finalidad de probar los usos basicos de github,para el módulo implantación de aplicaciones web.
 
 Esto es **negrita**, tambien *cursiva* y `codigo`
 
